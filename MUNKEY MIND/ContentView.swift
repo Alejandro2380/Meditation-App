@@ -16,7 +16,7 @@ struct ContentView: View {
     var body: some View {
         
         //NavigationView{
-        //yeah
+        //yeahdfsd
             ZStack{
                 ScrollView(.vertical, showsIndicators: false){
                     VStack (spacing: 15){
